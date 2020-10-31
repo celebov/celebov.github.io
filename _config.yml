@@ -1,1 +1,4 @@
 theme: jekyll-theme-time-machine
+
+{% include button.html button_name="About Me" button_class="primary" %}
+{% include button.html button_name="Articles" button_class="primary" %}
